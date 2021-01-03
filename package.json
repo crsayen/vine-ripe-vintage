@@ -2,7 +2,7 @@
   "name": "vine-ripe-vintage",
   "private": true,
   "description": "Vintage & Thrifted Home Goods",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "Chris Sayen <crsayen@gmail.com>",
   "dependencies": {
     "@stripe/stripe-js": "^1.11.0",
