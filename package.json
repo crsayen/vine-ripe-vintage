@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "vine-ripe-vintage",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Vintage & Thrifted Home Goods",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Chris Sayen <crsayen@gmail.com>",
   "dependencies": {
     "@stripe/stripe-js": "^1.11.0",
     "dotenv": "^8.2.0",
